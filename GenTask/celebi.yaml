@@ -1,5 +1,5 @@
 alias: []
-environment: celebichrono/lhcb-apd:latest
+environment: rootproject/root:6.32.02-ubuntu22.04
 memory_limit: 256Mi
 parameters:
   events: '20000'
