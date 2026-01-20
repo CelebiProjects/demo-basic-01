@@ -1,0 +1,1 @@
+{"object_type": "task", "predecessors": ["Gen"], "successors": ["FitTask"], "impression": "752101cc0e898d31f247f02ef733f15a", "impressions": [], "output_md5s": {}, "output_md5": "", "alias_to_path": {}, "path_to_alias": {}, "default_runner": "remote", "use_eos": true}

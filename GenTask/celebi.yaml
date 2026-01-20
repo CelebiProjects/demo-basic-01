@@ -1,0 +1,5 @@
+alias: []
+environment: celebichrono/lhcb-apd:latest
+memory_limit: 256Mi
+parameters:
+  events: '20000'
